@@ -2,6 +2,9 @@
 
 #local edit
 
+* trouble
+* trouble2
+
 * git init 
 * three stage
 
