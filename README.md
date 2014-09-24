@@ -1,5 +1,8 @@
 #toto
-git init 
-three stage
+* git init 
+* three stage
 
-titi
+* titi
+
+# web edit 
+* ex of web edit
