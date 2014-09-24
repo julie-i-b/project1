@@ -1,6 +1,8 @@
 #toto
 1
 
+2
+
 test stash
 
 #local edit
