@@ -2,7 +2,8 @@
 
 #local edit
 
-* trouble bis
+* trouble
+* trouble2
 
 * git init 
 * three stage
