@@ -1,5 +1,7 @@
 #toto
 
+test stash
+
 #local edit
 
 * trouble
