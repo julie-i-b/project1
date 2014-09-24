@@ -1,4 +1,7 @@
 #toto
+
+#local edit
+
 * git init 
 * three stage
 
